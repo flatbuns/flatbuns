@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @flatbuns
-- 👀 I’m interested in anything relating to computer, technology and basketball
+- 👋 Hi, I’m Adekunle
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: gmail- adekunletayo824@gmail.com
 
